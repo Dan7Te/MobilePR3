@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetpackCompsoeLearn</string>
+    <string name="empty_screen_text">Empty screen</string>
+    <string name="clicks_counter_text">Clicks: %1$d</string>
+</resources>
